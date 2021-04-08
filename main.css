@@ -1,0 +1,209 @@
+body {
+  position: relative;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline: 0;
+  background-color: rgb(34, 33, 33);
+}
+
+.nav-bar-top {
+  position: fixed;
+  width: 100%;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  top: 0px;
+  background-color: rgb(34, 33, 33);
+  height: 50px;
+  z-index: 1;
+}
+
+.video-player {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color: rgb(8, 8, 8);
+  position: absolute;
+  width: 995px;
+  height: 530px;
+  left: 0;
+  top: 50px;
+  
+  
+}
+
+.video-title {
+  margin: 0;
+  border: 0;
+  padding: 0; 
+  position: absolute;
+  width: 995px;
+  height: 100px;
+  top: 530px;
+  left: 0;
+  background-color: rgb(8, 8, 8);
+}
+
+.channel-and-description {
+  margin: 0;
+  border: 0;
+  padding: 0; 
+  position: absolute;
+  width: 995px;
+  height: 175px;
+  top: 630px;
+  left: 0;
+  background-color: rgb(8, 8, 8);
+}
+
+.comments {
+  margin: 0;
+  border: 0;
+  padding: 0; 
+  position: absolute;
+  width: 995px;
+  height: 500px;
+  top: 805px;
+  left: 0;
+  background-color: rgb(240, 196, 3);
+}
+
+.other-videos-right {
+  background-color: rgb(8, 8, 8);
+  position: absolute;
+  right: 0;
+  height: 900px;
+  width: 525px;
+  top: 50px;
+}
+
+.top-bar {
+  position: fixed;
+  border: 0;
+  margin: 0;
+  padding: 5px;
+  left: 10px;
+  height: 40px;
+}
+
+#search {
+  font-family: 'Roboto','Noto',sans-serif;
+  font-size: 16px;
+  color: rgb(221, 215, 215);
+  position: fixed;
+  border: 1px solid grey;
+  border-radius: 1px;
+  outline: 0;
+  margin: 0;
+  background-color: black;
+  padding: 5px;
+  top: 10px;
+  left: 425px;
+  width: 550px;
+}
+
+.mag-glass {
+  position: fixed;
+  right: 457px;
+  padding: 9px;
+  height: 32px;
+}
+
+.microphone {
+  position: fixed;
+  padding: 5px;
+  right: 420px;
+  height: 40px;
+}
+
+.top-right-icons {
+  position: fixed;
+  padding: 5px;
+  right: 20px;
+  height: 40px;
+}
+
+.video {
+  position: absolute;
+  top: 20px;
+  left: 120px;
+}
+
+div h2 {
+  position: absolute;
+  color: white;
+  font-weight: 100;
+  font-size: 19px;
+  font-family: 'Roboto','Noto',sans-serif;
+  left: 100px;
+}
+
+.views-and-date {
+  position: absolute;
+  color: rgb(190, 190, 190);
+  font-weight: 100;
+  font-size: 15px;
+  font-family: 'Roboto','Noto',sans-serif;
+  left: 100px;
+  top: 50px;
+  padding: 3px;
+}
+
+.thumbs {
+  position: absolute;
+  left: 620px;
+  height: 40px;
+  padding: 5px;
+  top: 35px;
+
+}
+
+.physics {
+  position: absolute;
+  top: 20px;
+  height: 97px;
+  padding: 5px;
+}
+
+.github {
+  position: absolute;
+  top: 125px;
+  height: 97px;
+  padding: 5px;
+}
+
+.java {
+  position: absolute;
+  top: 228px;
+  height: 97px;
+  padding: 5px;
+}
+
+.opensource {
+  position: absolute;
+  top: 333px;
+  height: 97px;
+  padding: 5px;
+}
+
+.texas {
+  position: absolute;
+  top: 440px;
+  height: 97px;
+  padding: 5px;
+}
+
+.channel-and-description hr {
+  position: absolute;
+  top: -10px;
+  left: 100px;
+  width: 88.5%;
+
+}
+
+.channel-and-description-picture {
+  height: 174px;
+  position: absolute;
+  left: 96px;
+}
